@@ -3,7 +3,7 @@
 ---
 
 **🎓 Estudante do 3º semestre de Gestão em Tecnologia da Informação na Fatec Tatuí.**  
-
+ 
 ---
   
   ##  Contato
@@ -25,10 +25,11 @@
 
 ---
 
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veruxka&layout=compact&langs_count=6&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=veruxka&show_icons=true&theme=dracula&count_private=true" alt="Meu GitHub Stats" />
 </p>
 
