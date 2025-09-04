@@ -10,7 +10,7 @@
 
 
 <p alinhar="centro">
-  <a href="https://www.linkedin.com/in/veruxka" target="_blank">
+  <a href="https://www.linkedin.com/in/veruxka-fakri-bratkauskas-080b8324a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" style="border-radius: 8px;" />
   </a>
   &nbsp;&nbsp;
