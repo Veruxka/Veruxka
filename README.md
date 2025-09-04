@@ -18,7 +18,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="48" style="border-radius: 8px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/veruxkafakri" target="_blank">
+  <a href="https://[github.com/veruxkafakri](https://github.com/Veruxka)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" style="border-radius: 8px;" />
   </a>
 </p>
