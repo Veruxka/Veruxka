@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" style="border-radius: 8px;" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:veruxkafakri@gmail.com" target="_blank">
+  <a href="mailto:bratkauskasveruxka@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="48" style="border-radius: 8px;" />
   </a>
   &nbsp;&nbsp;
