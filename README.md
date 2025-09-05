@@ -3,6 +3,7 @@
 ---
 
 **🎓 Estudante do 3º semestre de Gestão em Tecnologia da Informação na Fatec Tatuí.**  
+
  
 ---
 
@@ -13,6 +14,8 @@
 
 
 ---
+
+
   ##  Contato
 
 
