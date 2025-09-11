@@ -11,6 +11,7 @@
 
 - Banco de Dados
 - Desenvolvimento em Java
+- Engenharia de software
 
 
 ---
