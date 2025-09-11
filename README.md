@@ -4,17 +4,13 @@
 
 **🎓 Estudante do 3º semestre de Gestão em Tecnologia da Informação na Fatec Tatuí.**  
 
- 
----
+ ---
 
   ## 📚 Aprendendo agora
 
-- Banco de Dados
-- Desenvolvimento em Java
-- Engenharia de software
-
-
-
+- **Banco de Dados**
+- **Desenvolvimento em Java**
+- **Engenharia de software**
 
 
 ---
