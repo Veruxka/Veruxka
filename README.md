@@ -3,8 +3,11 @@
 ---
 
 **🎓 Estudante do 3º semestre de Gestão em Tecnologia da Informação na Fatec Tatuí.**  
+**💻 Apaixonada por tecnologia, programação e aprendizado contínuo.**    
+**🚀 Em busca de experiências práticas e oportunidades para crescer na área de TI.** 
 
  ---
+ 
 
   ## 📚 Aprendendo agora
 
@@ -51,5 +54,26 @@
 
 
 
+ 
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/-NetBeans_IDE-333333?style=flat&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+
+
+⭐ Obrigado por visitar meu perfil!
 
  
