@@ -2,7 +2,7 @@
 
 ---
 
-**🎓 Estudante do 3º semestre de Gestão em Tecnologia da Informação na Fatec Tatuí.**  
+**🎓 Estudante do 4º semestre de Gestão em Tecnologia da Informação na Fatec Tatuí.**  
 **💻 Apaixonada por tecnologia, programação e aprendizado contínuo.**    
 **🚀 Em busca de experiências práticas e oportunidades para crescer na área de TI.** 
 
@@ -14,6 +14,7 @@
 - **Banco de Dados**
 - **Desenvolvimento em Java**
 - **Engenharia de software**
+- **Redes de Computadores**
 
 
 ---
